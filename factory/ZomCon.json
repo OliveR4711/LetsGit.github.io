@@ -1,0 +1,9 @@
+{
+	"name": "ZomCon",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51bd336f-54a8-4bab-a954-6fe6acb85111",
+		"tenantId": "06b7200d-a7ce-4cc5-99de-e07721f795f5"
+	}
+}
